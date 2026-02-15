@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { 
   Github, Mail, Phone, Instagram, Shield, Layout, 
-  Code, Database, Globe, Cpu, Terminal, Smartphone, Linkedin, Menu, X, Trophy 
+  Code, Database, Globe, Cpu, Linkedin, Menu, X 
 } from 'lucide-react';
 
 // --- IMPORT ASSETS ---
